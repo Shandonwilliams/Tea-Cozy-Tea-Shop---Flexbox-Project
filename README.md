@@ -1,0 +1,1 @@
+This project is a website for a tea shop which I created to practise my use of flexbox, making the website responsive to different screen sizes while also putting the rest of my CSS and HTML knowledge to use
